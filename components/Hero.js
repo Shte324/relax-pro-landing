@@ -10,7 +10,7 @@ export default function Hero() {
       <div className="container-custom relative z-10 py-20">
         <div className="max-w-3xl">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight mb-6">
-            Массаж в [Город] — снимите боль и напряжение за 1 сеанс
+            Массаж в Москве — дорогая Лора, снимите боль и напряжение за 1 сеанс
           </h1>
           <p className="text-lg md:text-xl text-gray-600 mb-8">
             Классический, спортивный, антицеллюлитный массаж от дипломированных специалистов
