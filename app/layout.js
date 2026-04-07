@@ -1,5 +1,6 @@
 import { Montserrat, Open_Sans } from "next/font/google";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next"
 
 // Настройка шрифтов
 const montserrat = Montserrat({
@@ -84,6 +85,7 @@ export default function RootLayout({ children }) {
     `,
           }}
         />
+         <Analytics />
       </body>
     </html>
   );
